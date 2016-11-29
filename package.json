@@ -1,0 +1,17 @@
+{
+  "name": "ass3",
+  "version": "1.0.0",
+  "description": "Ifeyinwa Morah's day 2",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ifeyinwa Morah",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
